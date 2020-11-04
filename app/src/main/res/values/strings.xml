@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CreativePlusSameer</string>
+    <string name="search">Search Employee</string>
+    <string name="back">Back</string>
+    <string name="dob">"Date of Birth : "</string>
+    <string name="country">"Country : "</string>
+    <string name="mobile_no">"Mobile No. : "</string>
+    <string name="email">"Email : "</string>
+    <string name="name">"Name : "</string>
+
+</resources>
